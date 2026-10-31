@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "designer-shot-writeup",
+  "description": "Portfolio write-ups for designers, from rough notes to a post-ready piece.",
+  "owner": {
+    "name": "PixelPorts",
+    "url": "https://www.pixelports.com/?ref=skill-writeup"
+  },
+  "plugins": [
+    {
+      "name": "shot-writeup",
+      "description": "Turns a designer's notes or screenshots into a short portfolio write-up, with a quick check before posting.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

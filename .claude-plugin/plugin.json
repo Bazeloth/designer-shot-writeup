@@ -1,0 +1,13 @@
+{
+  "name": "shot-writeup",
+  "version": "1.0.0",
+  "description": "Turns a designer's notes or screenshots into a short portfolio write-up: title, hook, context, process and outcome, with a quick check before posting.",
+  "author": {
+    "name": "PixelPorts",
+    "url": "https://www.pixelports.com/?ref=skill-writeup"
+  },
+  "homepage": "https://github.com/Bazeloth/designer-shot-writeup",
+  "repository": "https://github.com/Bazeloth/designer-shot-writeup",
+  "license": "MIT",
+  "keywords": ["design", "portfolio", "case-study", "ux", "ui", "designer", "writing"]
+}
